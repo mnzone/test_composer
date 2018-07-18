@@ -1,8 +1,15 @@
 {
     "name": "songchechina/helper",
-    "description": "helper",
+    "description": "基于Fuelphp的工具库",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+      "php": ">=5.3.3",
+      "composer/installers": "~1.0",
+      "fuel/core": "1.8.*"
+    },
+    "require-dev": {
+      "fuel/docs": "1.8.*"
+    }
 }
