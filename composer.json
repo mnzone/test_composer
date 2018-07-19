@@ -13,6 +13,6 @@
       "fuel/docs": "1.8.*"
     },
     "autoload": {
-      "classmap": ["helper/src/common"]
+      "classmap": ["helper/src/"]
     }
 }

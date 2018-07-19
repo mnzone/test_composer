@@ -2,10 +2,10 @@
 /**
  * Created by PhpStorm.
  * User: ray
- * Date: 2018/7/18
- * Time: 15:38
+ * Date: 2018/7/19
+ * Time: 16:29
  */
-namespace common;
+namespace songchechina;
 
 class RedisTool
 {

@@ -3,11 +3,9 @@
  * Created by PhpStorm.
  * User: ray
  * Date: 2018/7/19
- * Time: 10:53
+ * Time: 16:29
  */
-
-namespace common;
-
+namespace songchechina;
 
 class CacheTool
 {
