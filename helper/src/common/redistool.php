@@ -5,7 +5,7 @@
  * Date: 2018/7/18
  * Time: 15:38
  */
-namespace songchechina;
+namespace common;
 
 class RedisTool
 {

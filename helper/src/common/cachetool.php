@@ -6,7 +6,7 @@
  * Time: 10:53
  */
 
-namespace songchechina;
+namespace common;
 
 
 class CacheTool
