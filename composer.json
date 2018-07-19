@@ -11,5 +11,8 @@
     },
     "require-dev": {
       "fuel/docs": "1.8.*"
+    },
+    "autoload": {
+      "classmap": ["helper/src/common"]
     }
 }
